@@ -1,0 +1,166 @@
+title: "A Midsummer Night's dream"
+id: midsummer
+author:  by William Shakespeare / <i>dir. Noah Bennett</i>
+director: Noah Bennett
+detail: The Stanford Shakespeare Company
+role: <b>Role:</b> Moth Snug
+style: "style2 medium lightbox onscroll-fade-in"
+content: 
+
+pictures:
+  - title: "midsummer"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/midsummer/vertical/m-10.jpg"
+    button: 
+  
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-7.jpg"
+    button: 
+  
+  - title: "midsummer"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/midsummer/vertical/m-11.jpg"
+    button:
+  
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-2.jpg"
+    button: 
+
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-1.jpg"
+    button: 
+  
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-3.jpg"
+    button: 
+
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-4.jpg"
+    button:
+
+  - title: "midsummer"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/midsummer/vertical/m-12.jpg"
+    button: 
+  
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-5.jpg"
+    button: 
+  
+  - title: "midsummer"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/midsummer/vertical/m-13.jpg"
+    button:
+  
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-8.jpg"
+    button: 
+
+  - title: "midsummer"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/midsummer/horizontal/m-9.jpg"
+    button:
+  
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-2.jpg"
+  #   button: 
+
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-1.jpg"
+  #   button: 
+
+  #   - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-3.jpg"
+  #   button: 
+
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-4.jpg"
+  #   button: 
+
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-5.jpg"
+  #   button: 
+
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-6.jpg"
+  #   button: 
+
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-8.jpg"
+  #   button: 
+  
+  # - title: 
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/horizontal/m-9.jpg"
+  #   button: 
+  
+  # - title:
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/vertical/m-12.jpg"
+  #   button: 
+  
+  # - title:
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/popups/fulls/midsummer/vertical/m-13.jpg"
+  #   button: 
+
+
+  

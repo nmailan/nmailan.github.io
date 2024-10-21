@@ -1,0 +1,84 @@
+title: "Cancelina"
+id: cancelina
+author: by Beth Hyland / <i>dir. Allie Moss </i>
+director: Allie Moss
+detail: Wagner New Play Festival
+role: <b>Role:</b> Meg
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+   A comedy about fame, cancel culture, and the lengths we'll go for redemption, CANCELINA asks who we really 
+    are when everything is stripped away.<br/>
+    Alina Jay is a former tween star turned singer/actress. 
+    When she's caught kissing her much-older, married co-star the internet turns on her. 
+    Now Alina's team, led by her best friend/assistant, Meg, must do whatever it takes to get Alina back on top. 
+pictures:
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/Cancelina/Vertical/Cancellina-24.jpg"
+    thumb: "images/popups/fulls/Cancelina/Vertical/Cancellina-24.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/Cancelina/Vertical/Cancellina-126.jpg"
+    thumb: "images/popups/fulls/Cancelina/Vertical/Cancellina-126.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/Cancelina/Vertical/Cancellina-138.jpg"
+    thumb: "images/popups/fulls/Cancelina/Vertical/Cancellina-138.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/Cancelina/Vertical/Cancellina-314.jpg"
+    thumb: "images/popups/fulls/Cancelina/Vertical/Cancellina-314.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-189.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-189.jpg"
+    button: "Details"
+    
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-203.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-203.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-227.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-227.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-100.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-100.jpg"
+    button: "Details"
+    
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-99.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-99.jpg"
+    button: "Details"
+
+  - title: "cancelina"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/Cancelina/Horizontal/Cancellina-68.jpg"
+    thumb: "images/popups/fulls/Cancelina/Horizontal/Cancellina-68.jpg"
+    button: "Details"
+

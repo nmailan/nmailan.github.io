@@ -1,0 +1,68 @@
+title: "Measure for Measure"
+id: m4m
+author:  by William Shakespeare / <i>dir. Betty Lee</i>
+director: Betty Lee
+detail:
+role: <b>Role:</b> Duke Vincentio
+style: "style2 medium lightbox onscroll-fade-in"
+content: 
+
+pictures:
+
+  - title: "m4m"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-7.jpg"
+    button: 
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-1.jpg"
+    button: 
+  
+  - title: "m4m"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-8.jpg"
+    button: 
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-2.jpg"
+    button: 
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-3.jpg"
+    button: 
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-4.jpg"
+    button:
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-5.jpg"
+    button: 
+  
+  - title: "m4m"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/m4m/m4m-6.jpg"
+    button: 
+
+  

@@ -1,0 +1,125 @@
+title: "peerless"
+id: peerless
+author:  by Jiehae Park / <i>dir. Olivia Popp</i>
+director: Olivia Popp
+detail: Asian American Theater Project
+role: <b>Role:</b> M
+style: "style2 medium lightbox onscroll-fade-in"
+content: "Asian-American twin sisters M and L will do whatever it takes to win a spot at <i>The College</i>, 
+  but how far will they really go? A dark, edgy take on the ambitious and cut-throat world of the college admissions process, 
+  <i>peerless</i> explores the startling depth of issues surrounding cultural identity, mortality, academic institutions, 
+  and family, with no lack of sardonic wit."
+
+pictures:
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-1.jpg"
+    button: 
+
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-3.jpg"
+    button: 
+  
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-5.jpg"
+    button: 
+
+    - title: "peerless"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/peerless/vertical/peerless-15.jpg"
+    button: 
+    
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-17.jpg"
+    button: 
+  
+  - title:
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/peerless/vertical/peerless-13.jpg"
+    button: 
+  
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-10.jpg"
+    button: 
+
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-11.jpg"
+    button: 
+  
+  - title:
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/peerless/vertical/peerless-7.jpg"
+    button: 
+  
+  - title:
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/peerless/vertical/peerless-6.jpg"
+    button: 
+  
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-12.jpg"
+    button: 
+  
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-14.jpg"
+    button: 
+  
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/peerless/horizontal/peerless-16.jpg"
+    button: 
+
+  # - title:
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/popups/fulls/peerless/vertical/peerless-2.jpg"
+  #   button: 
+  
+  # - title:
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/popups/fulls/peerless/vertical/peerless-4.jpg"
+  #   button: 
+
+
+  # - title: "peerless"
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/popups/fulls/peerless/horizontal/peerless-8.jpg"
+  #   button: 
