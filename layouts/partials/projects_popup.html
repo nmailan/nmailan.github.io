@@ -1,0 +1,28 @@
+<!-- Project Popup -->
+<div id="{{ .id}}" class="popup">
+    <section class="popup-content wrapper style1 align-center">
+        <span class="close-btn close-popup">&times;</span>
+        <h2 style="margin-bottom:0"><b>{{ .title }}</b></h2>
+        <h4 style="margin-top:0">{{ .author | safeHTML }}</h4>
+        <p><b>{{ .detail}}</b><br/>
+            {{ .role | safeHTML }}
+        </p>
+        <p class="justify-content">
+            {{ .content | safeHTML }}
+        </p>
+        <div class="photo-grid">
+            {{ range .pictures }}
+                <div class="photo-item {{ .orientation }} align-center">
+                    <img src="{{ .thumb | relURL }}" alt="{{ .alt }}"  onclick="openFullscreen(this, '{{ .title}}')">
+                </div>
+            {{ end }}
+        </div>
+    </section>
+</div>
+ <!-- Full-Screen Viewer (shared across pop-ups) -->
+ <div id="fullscreenViewer" class="fullscreen-viewer">
+    <span class="close-fullscreen" onclick="closeFullscreen()">&times;</span>
+    <img id="fullscreenImg" class="fullscreen-img" src="" alt="">
+    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+    <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>

@@ -1,0 +1,21 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center color1">
+    <div class="inner">
+        <ul class="icons">
+            <!-- style="background-color:#fff; padding:0; border-radius: 50%; margin-right:0.75rem" -->
+            <!-- {{ with .Site.Params.social.github }}<li><a style="color:#fff" target="_blank" href="{{.}}" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>{{end}} -->
+            <!-- {{ with .Site.Params.social.twitter }}<li ><a style="color:#fff" target="_blank" href="{{.}}" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>{{end}} -->
+            {{ with .Site.Params.social.instagram }}<li><a style="color:#fff" target="_blank" href="{{.}}" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>{{end}}
+            {{ with .Site.Params.social.linkedin }}<li><a style="color:#fff" target="_blank" href="{{.}}" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>{{end}}
+            {{ with .Site.Params.social.email }}<li><a style="color:#fff" target="_blank" href="mailto:{{.}}" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>{{end}}
+        </ul>
+        <p style="color:#fff">Website theme by Hugo Story &copy; 2020 <a style="color:#fff" target="_blank" href="https://github.com/caressofsteel/">CaressOfSteel</a><span class="footerspacer icon fa-diamond"></span>
+            Ported from <a style="color:#fff" target="_blank" href="https://html5up.net/uploads/demos/story/">Story</a> by HTML5UP
+            <!-- Images courtesy of <a target="_blank" href="https://unsplash.com">Unsplash</a> -->
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}

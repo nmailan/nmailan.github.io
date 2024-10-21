@@ -1,0 +1,9 @@
+<section>
+    <!-- <span class="icon {{ .style }} caption"></span> -->
+    <img src="{{.icon}}" alt="Photo Icon" class="mini-photo-icon open-popup" data-popup-id="{{ .id}}">
+    <h3>{{ .name }}</h3>
+    <p>{{ .content }}</p>
+    {{ with .button }}<ul class="actions stacked">
+        <li><div data-popup-id="{{ .id}}" class="button open-popup-btn open-popup">{{ .label }}</div></li>
+    </ul>{{ end }}
+</section>
