@@ -1,0 +1,100 @@
+title : "Selected Projects"
+id: "projects"
+content:
+# This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "UPCOMING: Vinegar Tom"
+    content : "Coming Soon"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/my_gallery/MLN.jpg"
+
+  # feature item loop
+  - name : "Snow in Midsummer"
+    content : "Director/Playwright"
+    style : "solid style2 major fa-sync-alt"
+    icon: "images/popups/fulls/snow/vertical/SIM-square.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "snow"
+
+  # feature item loop
+  - name : "Cancelina"
+    content : "Role: Meg"
+    style : "style2 major fa-gem"
+    icon: "images/popups/fulls/Cancelina/poster.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "cancelina"
+
+  # feature item loop
+  - name : "Everybody"
+    content : "Role: SOMEBODY (Everybody/Friendship/Kinship/Cousin/ Stuff/Evil/Strength/Beauty/Senses/Mind)"
+    style : "solid style2 major fa-wifi"
+    icon: "images/icons/everybody-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "everybody"
+    
+  # feature item loop
+  - name : "Peerless"
+    content : "Role: M"
+    style : "solid style2 major fa-cog"
+    icon: "images/popups/fulls/peerless/vertical/peerless-2.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "peerless"
+
+
+  # feature item loop
+  - name : "The Comedy of Errors"
+    content : "Role: Luciana"
+    style : "solid style2 major fa-save"
+    icon: "images/icons/coe-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "coe"
+    
+  # feature item loop
+  - name : "A Midsummer Night's Dream"
+    content : "Moth/Snug"
+    style : "solid style2 major fa-desktop"
+    icon: "images/icons/midsummer-night-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "midsummer"
+
+
+  # feature item loop
+  - name : "Orlando"
+    content : "Role: Euphrosyne/Chorus"
+    style : "solid style2 major fa-chart-bar"
+    icon: "images/icons/orlando-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "orlando"
+    
+    
+  # # feature item loop
+  # - name : "Ten"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  #   style : "solid style2 major fa-bolt"
+    
+  # # feature item loop
+  # - name : "Eleven"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  #   style : "style2 major fa-envelope"
+    
+  # # feature item loop
+  # - name : "Twelve"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  #   style : "solid style2 major fa-leaf"
+    

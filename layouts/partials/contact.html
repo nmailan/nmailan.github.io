@@ -1,0 +1,86 @@
+<!-- Form -->
+<section class="wrapper style1 align-center"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner">
+        {{ with .title }}<h2 style="margin-bottom:50px;">{{ . }}</h2>{{ end }}
+        <div class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+            <div class="content onload-image-fade-in">
+                <h3>Email</h3>
+                <ul class="icons actions stacked">
+                    <li><a target="_blank" href="mailto:mailan0723@gmail.com" class="fav icon style2 fa-envelope"><span class="label">Email</span></a></li>
+                </ul>
+                <h3>Social Media</h3>
+                <ul class="icons">
+                    <li><a target="_blank" href="https://instagram.com/iammaia123" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/in/nguyen-mai-lan/" class="icon brands style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                </ul>
+            </div>
+            <div class="image">
+                <img src="{{.photo}}" alt="" />
+            </div>
+        </div>
+</section>
+
+<!-- <section  class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner" style="margin:20px;">
+        {{ with .title }}<h2 class="align-center"  style="margin-top:30px;">{{ . }}</h2>{{ end }}
+        <header>
+            <h3>Form</h3>
+        </header>
+        <div class="content" style="padding:0;">
+
+            <form id="contactForm" action="mailto:mailan0723@gmail.com" method="POST">
+                <div class="fields">
+                    <div class="field half">
+                        <label for="name">Your Name</label>
+                        <input type="text" name="name" id="name" value="" />
+                    </div>
+                    <div class="field half">
+                        <label for="email">Your Email</label>
+                        <input type="email" name="email" id="email" value="" />
+                    </div>
+                    <div class="field">
+                        <label for="subject">Subject</label>
+                        <input type="text" name="subject" id="subject" value="" />
+                    </div>
+                    <div class="field">
+                        <label for="category">Category</label>
+                        <select name="category" id="category">
+                            <option value="">- Category -</option>
+                            <option value="professional">Professional</option>
+                            <option value="private">Private</option>
+                        </select>
+                    </div>
+                    <div class="field third">
+                        <input type="radio" id="priority-low" name="priority" checked />
+                        <label for="priority-low">Low Priority</label>
+                    </div>
+                    <div class="field third">
+                        <input type="radio" id="priority-normal" name="priority" />
+                        <label for="priority-normal">Normal Priority</label>
+                    </div>
+                    <div class="field third">
+                        <input type="radio" id="priority-high" name="priority" />
+                        <label for="priority-high">High Priority</label>
+                    </div>
+                    <div class="field">
+                        <label for="message">Message</label>
+                        <textarea name="message" id="message" rows="6"></textarea>
+                    </div>
+                    <div class="field half">
+                        <input type="checkbox" id="copy" name="copy" />
+                        <label for="copy">Email me a copy of this message</label>
+                    </div>
+                    <div class="field half">
+                        <input type="checkbox" id="human" name="human" required />
+                        <label for="human">I am a human and not a robot</label>
+                    </div>
+
+                </div>
+                <ul class="actions">
+                    <li><input type="submit" name="submit" id="submit" value="Send Message" /></li>
+                </ul>
+            </form>
+
+        </div>
+    </div>
+</section> -->

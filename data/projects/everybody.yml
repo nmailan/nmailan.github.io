@@ -1,0 +1,100 @@
+title: "Everybody"
+id: everybody
+author:  by Branden Jacobs-Jenkins / <i>Michael Rau</i>
+director: Michael Rau
+detail:
+role: <b>Role:</b> SOMEBODY (role decided by lottery each night)
+style: "style2 medium lightbox onscroll-fade-in"
+content: "A 2018 Pulitzer Prize Finalist in Drama by Branden Jacobs-Jenkins, directed by TAPS Artistic Director Prof. Michael Rau. 
+  This modern riff on the fifteenth-century morality play Everyman follows Everybody 
+  (chosen from amongst the cast by lottery at each performance) as they journey through life's greatest mystery — the meaning of living.<br/><br/>
+  In Everybody, the lottery of life is made literal: the actors' roles, including the eponymous protagonist, are decided by lottery 
+  each night. There are 120 possible casting permutations, making it likely that the show you see is unfolding,
+   before your eyes, for the first time. "
+
+pictures:
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-2.jpg"
+    button: 
+
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-1.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-10.jpg"
+    button: 
+
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-5.jpg"
+    button: 
+
+  - title: "everybody"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/everybody/vertical/everybody-4.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-12.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/everybody/vertical/everybody-6.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-13.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-11.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/everybody/vertical/everybody-7.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/popups/fulls/everybody/vertical/everybody-8.jpg"
+    button: 
+  
+  - title: "everybody"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/popups/fulls/everybody/horizontal/everybody-9.jpg"
+    button: 
+
+ 

@@ -1,0 +1,203 @@
+/* Custom navbar styling for Hugo Story theme */
+nav {
+    position: fixed;
+    top: -60px;
+    width: 100%;
+    background-color: #fff; /* Use the same background color as the theme */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+    z-index: 1000; /* Ensure it stays above other content */
+    border-bottom: 1px solid #eaeaea; /* Light border for definition */
+    transition: top 0.3s ease-in-out; /* Smooth transition for the sliding effect */
+}
+
+nav:hover {
+    top: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: right; /* Right align the items */
+}
+
+nav ul li {
+    margin: 0 5px; /* Space out the items */
+}
+
+nav ul li a {
+    display: block;
+    padding: 15px 20px; /* Padding for clickable area */
+    text-decoration: none;
+    color: #333; /* Text color that matches the theme */
+    font-family: 'Open Sans', sans-serif; /* TODO: how to get right font Ensure font matches the theme */
+    font-size: 16px;
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+nav ul li a:hover {
+    color: #837164; /* Change color on hover to match the theme's accent color */
+    /* color: #007acc; */
+}
+
+/* Add some padding to the top of the main content to avoid it being hidden behind the fixed navbar */
+/* main {
+    padding-top: 60px;
+} */
+
+/* The popup (hidden by default) */
+.popup {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Popup content */
+.popup-content {
+    background-color: #fefefe;
+    margin: 2% auto; /* 15% from the top and centered */
+    padding: 40px;
+    border: 1px solid #888;
+    width: 90%; /* Could be more or less, depending on screen size */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* The close button */
+.close-btn {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* static/css/custom.css */
+.photo-grid {
+    display: grid;
+    justify-content: center;
+    /* grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
+    gap: 10px;
+    padding: 5px;
+    grid-template-columns: repeat(4, 1fr); 
+    /* grid-auto-rows: 200px;  */
+}
+
+.photo-item {
+    overflow: hidden;
+    justify-content: center;
+    position: relative;
+}
+
+.photo-item img {
+    width: 100%;
+    justify-content: center;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    /* height: 100%; */
+    /* object-fit: cover; */
+}
+
+.photo-item img:hover {
+    transform: scale(1.05);
+}
+
+/* Vertical photos: Span 1 column and 2 rows */
+.photo-item.vertical {
+    grid-column: span 1;
+    grid-row: span 2;
+}
+
+/* Horizontal photos: Span 2 columns and 2 rows (taking up space of 2 vertical photos) */
+.photo-item.horizontal {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+/* CSS to style the mini photo icon */
+.mini-photo-icon {
+    width: 100px;  /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    object-fit: cover; /* Ensures the image is fully contained */
+    border-radius: 50%;
+}
+
+
+/* Full-Screen Viewer Styling */
+.fullscreen-viewer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+}
+
+.fullscreen-img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.close-fullscreen {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color: white;
+    font-size: 40px;
+    /* font-weight: bold; */
+    cursor: pointer;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    transform: translateY(-50%);
+    padding: 16px;
+    user-select: none;
+    text-decoration: none;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
+
+.carousel-image.vertical img {
+    width: 47%;
+    height: 100%;
+    max-height: 80vh;
+    object-fit: cover;
+}
+
+.carousel-image.horizontal img {
+    width: 100%;
+    height: 100%;
+    max-height: 80vh;
+    object-fit: cover;
+}

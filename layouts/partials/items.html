@@ -1,0 +1,35 @@
+<!-- Items -->
+<!-- class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }} -->
+<section class="wrapper style1 align-center {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <div class="items {{ .style }}">
+            {{ range .items }}
+                {{ partial "item" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}"> -->
+<!-- <div id="popup" class="popup">
+    <div class="popup-content">
+        <span class="close-btn">&times;</span>
+        
+        <section class="wrapper style1 align-center">
+            <div class="inner">
+                {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+                {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+                <div class="items {{ .style }}">
+                    {{ range .items }}
+                        {{ partial "item" . }}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+
+    </div>
+</div> -->
+
+<!-- <script src="{{ "js/custom.js" | relURL }}"></script> -->

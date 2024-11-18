@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "resume"
+title : "Headshots and Resume"
+content: 
+  Click below to download the resume and most recent headshot.
+# And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+button: 
+  label: "Download Resume"
+  link: "/files/resume.pdf"
+  label2: "Download Headshot"
+  link2: "images/my_gallery/vertical/Headshot1_close.jpg"
+image: "images/my_gallery/vertical/green_far.jpg"
+
+# <a href="{{ "/files/resume.pdf" | relURL }}" target="_blank">Download PDF</a>
