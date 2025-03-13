@@ -1,0 +1,248 @@
+title: "The Rogues' Trial"
+id: rogues_trial
+author: by Ariano Suassuna / <i>dir. Ludmila de Brito </i> 
+director: Ludmilade Brito
+detail: 
+role: <b>Role:</b> John Cricket
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  <i>The Rogues' Trial </i> by Ariano Suassuna is a beloved Brazilian "morality" play set in the drylands - With a blend of Commedia, Clowning, 
+  and Brazilian folktales, we follow mischievous John Cricket and his bestie, Chicó, as they navigate broken systems of power.
+
+ 
+pictures:
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_6.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_6.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_1.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_1.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_2.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_2.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_3.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_3.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_4.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_4.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_7.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_7.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_9.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_9.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_5.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_5.jpg"
+    button: "Details"
+  
+  
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_8.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_8.jpg"
+    button: "Details"
+
+
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_10.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_10.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_12.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_12.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_14.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_14.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_13.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_13.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_18.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_18.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_11.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_11.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_15.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_15.jpg"
+    button: "Details"
+
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_16.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_16.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_17.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_17.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_19.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_19.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_20.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_20.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_21.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_21.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_22.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_22.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_23.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_23.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_24.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_24.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_25.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_25.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_26.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_26.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_27.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_27.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_28.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_28.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_29.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_29.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_30.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_30.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_31.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_31.jpg"
+    button: "Details"
+  
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_32.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_32.jpg"
+    button: "Details"
+
+  - title: "rogues_trial"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_33.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_33.jpg"
+    button: "Details"

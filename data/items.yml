@@ -5,10 +5,29 @@ content:
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "UPCOMING: Vinegar Tom"
-    content : "Coming Soon"
+  # - name : "UPCOMING: Wagner Festival One Acts"
+  #   content : "Coming Soon"
+  #   style : "solid style2 major fa-hashtag"
+  #   icon: "images/my_gallery/MLN.jpg"
+  
+
+  - name : "Rogues' Trial"
+    content : "Role: John Cricket"
     style : "solid style2 major fa-hashtag"
-    icon: "images/my_gallery/MLN.jpg"
+    icon: "images/popups/fulls/rogues_trial/RT-poster-0115.jpeg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "rogues_trial"
+
+  - name : "Vinegar Tom"
+    content : "Role: Margery"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/popups/fulls/vinegar_tom/VT-New-Square.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "vinegar_tom"
 
   # feature item loop
   - name : "Snow in Midsummer"
