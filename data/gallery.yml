@@ -16,7 +16,7 @@ pictures:
     content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
     image: "images/my_gallery/vertical/portrait.jpg"
-    thumb: "images/my_gallery/vertical/portrait.jpg"
+    thumb: "images/my_gallery/thumbs/portrait.jpg"
     button: "Details"
 
   - title: "peerless"
@@ -59,7 +59,7 @@ pictures:
     content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
     image: "images/my_gallery/vertical/dino.jpg"
-    thumb: "images/my_gallery/vertical/dino.jpg"
+    thumb: "images/my_gallery/thumbs/dino.jpg"
     button: "Details"
 
   - title: "ZAR Intense '24"
