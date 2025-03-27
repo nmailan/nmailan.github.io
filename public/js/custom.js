@@ -1,3 +1,9 @@
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".banner.onload-image-fade-in .image img, .banner.onload-content-fade-right").forEach(el => {
+      el.classList.add("loaded");
+    });
+  });
+
 document.addEventListener("DOMContentLoaded", function() {
     var navbar = document.getElementById("navbar");
     var main = document.getElementById("main");
