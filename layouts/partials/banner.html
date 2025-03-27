@@ -9,6 +9,8 @@
         </ul>{{ end }}
     </div>
     {{ with .image }}<div class="image">
-        <img src="{{.}}" alt="Hugo Story" />
+        <!-- <img src="{{.}}" alt="Hugo Story" /> -->
+         <!-- Lazy loading -->
+        <img src="{{.}}" alt="Hugo Story" loading="lazy" />
     </div>{{end}}
 </section>
