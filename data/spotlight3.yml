@@ -10,6 +10,7 @@ button:
   link: "/files/resume.pdf"
   label2: "Download Headshot"
   link2: "images/my_gallery/vertical/Headshot1_close.jpg"
-image: "images/my_gallery/vertical/green_far.jpg"
+image: "images/popups/fulls/rogues_trial/RT_20.jpg"
+# "images/my_gallery/vertical/green_far.jpg"
 
 # <a href="{{ "/files/resume.pdf" | relURL }}" target="_blank">Download PDF</a>
