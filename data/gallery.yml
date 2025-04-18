@@ -6,10 +6,10 @@ content: |
 # This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
 pictures:
   - title: "Everybody"
-    content: "play by Branden Jacobs-Jenkins / dir. Michael Rau <br/> (phot. Frank Chen)"
+    content: "play by Branden Jacobs-Jenkins <br/> (phot. Stephen Hitchcock)"
     orientation: "horizontal"
-    image: "images/my_gallery/everybody-1.jpg"
-    thumb: "images/my_gallery/everybody-1.jpg"
+    image: "images/my_gallery/everybody-2.jpg"
+    thumb: "images/my_gallery/everybody-2.jpg"
     button: "Details"
   
   - title: "Headshots"
@@ -25,27 +25,40 @@ pictures:
     image: "images/my_gallery/peerless-1.jpg"
     thumb: "images/my_gallery/peerless-1.jpg"
     button: "Details"
-  
+
+  - title: "Rogues' Trial"
+    content: "play by Ariano Suassuna / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_12.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_12.jpg"
+    button: "Details"
+
   - title: "Headshots"
     content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
     image: "images/my_gallery/vertical/BnW_front.jpg"
     thumb: "images/my_gallery/thumbs/BnW_front.jpg"
     button: "Details"
-
+  
+  - title: "Vinegar Tom"
+    content: "play by Caryl Churchill / dir. Allie Moss <br/> (phot. Rich Soublet)"
+    orientation: "vertical"
+    image: "images/popups/fulls/vinegar_tom/vt35.jpg"
+    thumb: "images/popups/fulls/vinegar_tom/vt35.jpg"
+    button: "Details"
 
   - title: "Everybody"
-    content: "play by Branden Jacobs-Jenkins <br/> (phot. Stephen Hitchcock)"
+    content: "play by Branden Jacobs-Jenkins / dir. Michael Rau <br/> (phot. Frank Chen)"
     orientation: "horizontal"
-    image: "images/my_gallery/everybody-2.jpg"
-    thumb: "images/my_gallery/everybody-2.jpg"
+    image: "images/my_gallery/everybody-1.jpg"
+    thumb: "images/my_gallery/everybody-1.jpg"
     button: "Details"
-  
-  - title: "The Comedy of Errors"
-    content: "play by William Shakespeare / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
+
+  - title: "Vinegar Tom"
+    content: "play by Caryl Churchill / dir. Allie Moss <br/> (phot. Rich Soublet)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/ComedyofErrors-105.jpg"
-    thumb: "images/my_gallery/thumbs/ComedyofErrors-105.jpg"
+    image: "images/popups/fulls/vinegar_tom/vt11.jpg"
+    thumb: "images/popups/fulls/vinegar_tom/vt11.jpg"
     button: "Details"
   
   - title: "ZAR Intense '24"
@@ -54,12 +67,12 @@ pictures:
     image: "images/my_gallery/zar-1.jpg"
     thumb: "images/my_gallery/thumbs/zar-1.jpg"
     button: "Details"
-  
-  - title: "Headshots"
-    content: "(phot. Nam Nguyễn)"
+
+  - title: "Rogues' Trial"
+    content: "play by Ariano Suassuna / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/dino.jpg"
-    thumb: "images/my_gallery/thumbs/dino.jpg"
+    image: "images/popups/fulls/rogues_trial/RT_5.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_5.jpg"
     button: "Details"
 
   - title: "ZAR Intense '24"
@@ -68,6 +81,35 @@ pictures:
     image: "images/my_gallery/zar-4.jpg"
     thumb: "images/my_gallery/thumbs/zar-4.jpg"
     button: "Details"
+
+  - title: "The Comedy of Errors"
+    content: "play by William Shakespeare / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
+    orientation: "vertical"
+    image: "images/my_gallery/vertical/ComedyofErrors-105.jpg"
+    thumb: "images/my_gallery/thumbs/ComedyofErrors-105.jpg"
+    button: "Details"
+
+  - title: "Vinegar Tom"
+    content: "play by Caryl Churchill / dir. Allie Moss <br/> (phot. Rich Soublet)"
+    orientation: "horizontal"
+    image: "images/popups/fulls/vinegar_tom/vt36.jpg"
+    thumb: "images/popups/fulls/vinegar_tom/vt36.jpg"
+    button: "Details"
+    
+  - title: "Headshots"
+    content: "(phot. Nam Nguyễn)"
+    orientation: "vertical"
+    image: "images/my_gallery/vertical/dino.jpg"
+    thumb: "images/my_gallery/thumbs/dino.jpg"
+    button: "Details"
+    
+  - title: "Rogues' Trial"
+    content: "play by Ariano Suassuna / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
+    orientation: "horizontal"
+    image: "images/popups/fulls/rogues_trial/RT_4.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_4.jpg"
+    button: "Details"
+    
   
   - title: "Headshots"
     content: "(phot. Nam Nguyễn)"
@@ -81,6 +123,20 @@ pictures:
     orientation: "horizontal"
     image: "images/my_gallery/cancelina-1.jpg"
     thumb: "images/my_gallery/cancelina-1.jpg"
+    button: "Details"
+
+  - title: "Rogues' Trial"
+    content: "play by Ariano Suassuna / dir. Ludmila de Brito <br/> (phot. Rich Soublet)"
+    orientation: "vertical"
+    image: "images/popups/fulls/rogues_trial/RT_11.jpg"
+    thumb: "images/popups/fulls/rogues_trial/RT_11.jpg"
+    button: "Details"
+  
+  - title: "Vinegar Tom"
+    content: "play by Caryl Churchill / dir. Allie Moss <br/> (phot. Rich Soublet)"
+    orientation: "horizontal"
+    image: "images/popups/fulls/vinegar_tom/vt10.jpg"
+    thumb: "images/popups/fulls/vinegar_tom/vt10.jpg"
     button: "Details"
   
   - title: "Cancelina"
@@ -163,3 +219,21 @@ pictures:
   #   thumb: "images/gallery/thumbs/12.jpg"
   #   button: "Details"
     
+
+
+# public/images/popups/fulls/rogues_trial/RT_9.jpg   
+# public/images/popups/fulls/rogues_trial/RT_11.jpg  
+# public/images/popups/fulls/rogues_trial/RT_12.jpg 
+# public/images/popups/fulls/vinegar_tom/vt35.jpg
+# public/images/popups/fulls/vinegar_tom/vt11.jpg
+
+
+# public/images/popups/fulls/rogues_trial/RT_17.jpg
+# public/images/popups/fulls/rogues_trial/RT_19.jpg
+# public/images/popups/fulls/rogues_trial/RT_22.jpg
+# public/images/popups/fulls/vinegar_tom/vt27.jpg
+# public/images/popups/fulls/vinegar_tom/vt37.jpg
+# public/images/popups/fulls/vinegar_tom/vt36.jpg
+# public/images/popups/fulls/vinegar_tom/vt4.jpg
+# public/images/popups/fulls/vinegar_tom/vt10.jpg
+# public/images/popups/fulls/vinegar_tom/vt16.jpg
