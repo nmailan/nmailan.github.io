@@ -2,24 +2,49 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "about"
 title : "About"
 content: |
-  Maia Nguyen is an actor, writer, and theater-maker. Born to Vietnamese parents, she grew up in Warsaw, Poland while frequenting her hometown in Hanoi. 
-  She is currently based in San Diego, California, pursuing her MFA in Acting from UCSD.<br/><br/>
+  Maia Nguyen is an actor and theater-maker whose work lives at the intersection of thought, emotional urgency, and playful rebellion. 
+  Born to Vietnamese parents and raised in Poland, she grew up between Warsaw’s vibrant theater scene and the warmth of her family home in Hanoi. 
+  From spending countless evenings at local playhouses to creating playful skits as a teenager at Ognisko Teatralne “u Machulskich,” Maia’s early encounters 
+  with theater still shape the way she approaches her craft: valuing collaboration, contradictions, and work that looks beyond literal depictions of reality.<br/><br/>
+  
+  Currently in her final year of pursuing her MFA in Acting at UC San Diego, Maia is also a proud graduate of Stanford University, 
+  where she earned degrees in Theater and Performance Studies as well as Computer Science. At Stanford, she deepened her love of classics and experimentation,  
+  performing with the Asian American Theater Project (AATP), the Stanford Shakespeare Company, and Theater Lab. With her technical experience in scientific research, 
+  and internships at Bay Area startups, Maia has learned to combine an artist’s heart with an engineer’s precision,
+   experiencing <i>the best of both worlds</i> (thank you, <i>Hannah Montana</i>).<br/><br/>
+  
+  As a performer, Maia is drawn to characters that are often caught between control and collapse. 
+  She is attracted to stories that span genres but remain character-driven, balancing emotional intensity with absurdity or tragedy with satire. 
+  Some of her acting credits include: <i>peerless</i> (M), <i>The Rogues’ Trial</i> (John Cricket), <i>Vinegar Tom</i> (Margery), <i>Cancelina</i> (Meg), 
+  <i>Everybody</i> (Somebody), <i>The Seagull</i> (u/s Arkadina/Masha), and <i>Indian Princesses</i> (u/s Samantha). </br></br> 
+  
+  Outside of acting, Maia has written and directed short performance pieces and one-acts. Through writing, she explores family, power, the tension between heart and mind,
+   and the search for meaning. Her most recent work includes writing and directing her own adaptation of a 13th-century Chinese play, <i>Snow in Midsummer.</i> 
+   She has also served as an Assistant Director to Haruna Lee's <i>Beyond the Wound Is A Portal</i> and interned as a production assistant in New York's Target Margin Theater. 
+   She often travels with her ukulele, plays the piano and writes songs in her spare time.
+   
+   Maia is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).</br></br> 
 
-  Before moving to San Diego, Mai Lan earned a Bachelor's in Theater and Performance Studies, along with Bachelor's 
-  and Master's degrees in Computer Science, all from Stanford University.
-  There, she discovered her love of classics and experimental theater. She was a member of the Asian American Theater Project, the Stanford Shakespeare Company, 
-   and Theater Lab.<br/><br/>
-
-  As an artist, Mai Lan is interested in the ideas of distance, absurdity and contradictions. 
-  In her work, she is guided by the idea that theater is most impactful when it moves away from literality and one-to-one depictions of reality as we know it. 
-  Some of her acting credits include: <i>The Rogues' Trial</i> (John Cricket), <i>Vinegar Tom</i> (Margery), <i>Cancelina</i> (Meg),  <i>peerless</i> (M), <i>Everybody</i> (SOMEBODY), and <i>The Seagull</i> (Understudy for Arkadina/Masha).
-  <br/><br/>
-
-  Outside of acting, she has written and directed multiple short performance pieces and one-acts. Her most recent work includes writing and directing her own adaptation of a 13th-century Chinese play, <i>Snow in Midsummer.</i>
-  She has worked as an Assistant Director to Haruna Lee's <i>Beyond the Wound Is A Portal</i> and interned as a production assistant in New York's Target Margin Theater. <br/><br/>
-  She is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).
-# And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  
 button: 
   label: "Back"
   link: "#landing"
 image: "images/my_gallery/vertical/BnW_3.jpg"
+
+# Maia Nguyen is an actor and theater-maker. Born to Vietnamese parents, she grew up in Warsaw, Poland while frequenting her hometown in Hanoi. 
+  # She is currently based in San Diego, California, pursuing her MFA in Acting from UCSD.<br/><br/>
+
+  # Before moving to San Diego, Maia earned a Bachelor's in Theater and Performance Studies, along with Bachelor's 
+  # and Master's degrees in Computer Science, all from Stanford University.
+  # There, she discovered her love of classics and experimental theater. She was a member of the Asian American Theater Project, the Stanford Shakespeare Company, 
+  #  and Theater Lab.<br/><br/>
+
+  # As an artist, Maia is interested in the ideas of distance, absurdity and contradictions. 
+  # In her work, she is guided by the idea that theater is most impactful when it moves away from literality and one-to-one depictions of reality as we know it. 
+  # Some of her acting credits include: <i>The Rogues' Trial</i> (John Cricket), <i>Vinegar Tom</i> (Margery), <i>Cancelina</i> (Meg),  <i>peerless</i> (M), <i>Everybody</i> (SOMEBODY), and <i>The Seagull</i> (Understudy for Arkadina/Masha).
+  # <br/><br/>
+
+  # Outside of acting, she has written and directed multiple short performance pieces and one-acts. Her most recent work includes writing and directing her own adaptation of a 13th-century Chinese play, <i>Snow in Midsummer.</i>
+  # She has worked as an Assistant Director to Haruna Lee's <i>Beyond the Wound Is A Portal</i> and interned as a production assistant in New York's Target Margin Theater. <br/><br/>
+  # She is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).
+# And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).

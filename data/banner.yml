@@ -3,10 +3,10 @@ style:  "style1 orient-left content-align-left image-position-right fullscreen o
 id: "landing"
 title : "Maia Nguyen"
 subtitle: |
-  Actor, Writer, Theater-maker.
+  Actor, Theater-maker.
 # Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
 content : |
-  <i>Hi, I'm Mai Lan! With roots from Vietnam, I grew up in Warsaw, Poland.<br>
+  <i>Hi, I'm Maia! With roots from Vietnam, I grew up in Warsaw, Poland.<br>
   I am currently based in San Diego, California, pursuing my MFA in Acting from UCSD.</i>
 # This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
 button:
