@@ -220,3 +220,8 @@ nav ul li a:hover {
 .reel_text{
     margin-bottom: 0px;
 }
+
+.about-content {
+    font-size: 0.9em;
+    text-align: justify;
+}
