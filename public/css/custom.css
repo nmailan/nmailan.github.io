@@ -22,6 +22,31 @@ nav ul {
     justify-content: right; /* Right align the items */
 }
 
+/* Mobile styles */
+@media (max-width: 768px) {
+    nav ul {
+        display: flex;
+        flex-wrap: nowrap;           /* Prevent wrapping */
+        overflow-x: auto;            /* Enable horizontal scroll */
+        overflow-y: hidden;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;       /* Hide scrollbar in Firefox */
+        justify-content: flex-start; /* Start from first item */
+    }
+
+    nav ul::-webkit-scrollbar {
+        display: none;               /* Hide scrollbar in Chrome/Safari */
+    }
+
+    nav ul li {
+        flex: 0 0 auto;               /* Prevent items from shrinking */
+    }
+
+    nav ul li a {
+        font-size: 0.9em;
+    }
+}
+
 nav ul li {
     margin: 0 5px; /* Space out the items */
 }
@@ -31,8 +56,8 @@ nav ul li a {
     padding: 15px 20px; /* Padding for clickable area */
     text-decoration: none;
     color: #333; /* Text color that matches the theme */
-    font-family: 'Open Sans', sans-serif; /* TODO: how to get right font Ensure font matches the theme */
-    font-size: 16px;
+    font-family:"Source Sans Pro",Helvetica,sans-serif;
+    font-size: 1em;
     transition: color 0.3s ease; /* Smooth transition for hover effect */
 }
 
