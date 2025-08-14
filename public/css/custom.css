@@ -1,6 +1,9 @@
 /* Custom navbar styling for Hugo Story theme */
 nav {
+    align-items: center;
     position: fixed;
+    display: flex;
+    justify-content: space-between; 
     top: -60px;
     width: 100%;
     background-color: #fff; /* Use the same background color as the theme */
@@ -22,8 +25,23 @@ nav ul {
     justify-content: right; /* Right align the items */
 }
 
+nav .logo img {
+    height: 45px; /* adjust as needed */
+    width: auto;
+}
+
+nav .logo {
+    margin-left: 30px;
+    padding-top: 5px;
+    margin-right: 30px;
+}
+
 /* Mobile styles */
 @media (max-width: 768px) {
+       /* .logo { 
+        display: none;
+        } */
+ 
     nav ul {
         display: flex;
         flex-wrap: nowrap;           /* Prevent wrapping */
@@ -57,7 +75,7 @@ nav ul li a {
     text-decoration: none;
     color: #333; /* Text color that matches the theme */
     font-family:"Source Sans Pro",Helvetica,sans-serif;
-    font-size: 1em;
+    font-size: 0.9em;
     transition: color 0.3s ease; /* Smooth transition for hover effect */
 }
 
