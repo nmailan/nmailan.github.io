@@ -14,16 +14,14 @@ content: |
    experiencing <i>the best of both worlds</i> (thank you, <i>Hannah Montana</i>).<br/><br/>
   
   As a performer, Maia is drawn to characters that are often caught between control and collapse. 
-  She is attracted to stories that span genres but remain character-driven, balancing emotional intensity with absurdity or tragedy with satire. 
-  Some of her acting credits include: <i>peerless</i> (M), <i>The Rogues’ Trial</i> (John Cricket), <i>Vinegar Tom</i> (Margery), <i>Cancelina</i> (Meg), 
-  <i>Everybody</i> (Somebody), <i>The Seagull</i> (u/s Arkadina/Masha), and <i>Indian Princesses</i> (u/s Samantha). </br></br> 
+  She is attracted to stories that span genres but remain character-driven, balancing emotional intensity with absurdity or tragedy with satire. </br></br> 
   
   Outside of acting, Maia has written and directed short performance pieces and one-acts. Through writing, she explores family, power, the tension between heart and mind,
    and the search for meaning. Her most recent work includes writing and directing her own adaptation of a 13th-century Chinese play, <i>Snow in Midsummer.</i> 
    She has also served as an Assistant Director to Haruna Lee's <i>Beyond the Wound Is A Portal</i> and interned as a production assistant in New York's Target Margin Theater. 
-   She often travels with her ukulele, plays the piano and writes songs in her spare time.
+   She often travels with her ukulele, plays the piano and writes songs in her spare time.</br></br> 
    
-   Maia is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).</br></br> 
+   Maia is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).
 
   
 button: 
@@ -48,3 +46,6 @@ image: "images/my_gallery/vertical/BnW_3.jpg"
   # She has worked as an Assistant Director to Haruna Lee's <i>Beyond the Wound Is A Portal</i> and interned as a production assistant in New York's Target Margin Theater. <br/><br/>
   # She is a recipient of the Louis Sudler Prize for Excellence in the Performing Arts (2022).
 # And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+
+  # Some of her acting credits include: <i>peerless</i> (M), <i>The Rogues’ Trial</i> (John Cricket), <i>Vinegar Tom</i> (Margery), <i>Cancelina</i> (Meg), 
+  # <i>Everybody</i> (Somebody), <i>The Seagull</i> (u/s Arkadina/Masha), and <i>Indian Princesses</i> (u/s Samantha). </br></br> 
