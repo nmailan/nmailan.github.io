@@ -28,5 +28,8 @@
 	{{ range .Site.Params.asset.fontawesome_css -}}
 		<link rel="stylesheet" href="{{ . | absURL }}">
 	{{- end }}
+	
+	<!-- Preload banner image -->
+	<link rel="preload" as="image" href="images/my_gallery/vertical/Headshot1_far_resized.jpg">
 
 </head>
