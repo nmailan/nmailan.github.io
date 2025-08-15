@@ -193,8 +193,8 @@ pictures:
   - title: "A Midsummer Night's Dream"
     content: "play by William Shakespeare / dir. Noah Bennett <br/> (phot. Frank Chen)"
     orientation: "horizontal"
-    image: "images/my_gallery/midsummer-1.jpg"
-    thumb: "images/my_gallery/midsummer-1.jpg"
+    image: "images/my_gallery/horizontal/m-7.jpg"
+    thumb: "images/my_gallery/horizontal/m-7.jpg"
     button: "Details"
 
   - title: "Headshots"
