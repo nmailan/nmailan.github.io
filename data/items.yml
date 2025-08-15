@@ -14,7 +14,7 @@ items:
   - name : "Rogues' Trial"
     content : "Role: John Cricket"
     style : "solid style2 major fa-hashtag"
-    icon: "images/popups/fulls/rogues_trial/RT-poster-0115.jpeg"
+    icon: "images/icons/RT-poster-0115.jpeg"
     button: 
       label: "Learn More"
       link: "#"
@@ -23,7 +23,7 @@ items:
   - name : "Vinegar Tom"
     content : "Role: Margery"
     style : "solid style2 major fa-hashtag"
-    icon: "images/popups/fulls/vinegar_tom/VT-New-Square.jpg"
+    icon: "images/icons/VT-New-Square.jpg"
     button: 
       label: "Learn More"
       link: "#"
@@ -33,7 +33,7 @@ items:
   - name : "Snow in Midsummer"
     content : "Director/Playwright"
     style : "solid style2 major fa-sync-alt"
-    icon: "images/popups/fulls/snow/vertical/SIM-square.jpg"
+    icon: "images/icons/SIM-square.jpg"
     button: 
       label: "Learn More"
       link: "#"
@@ -43,7 +43,7 @@ items:
   - name : "Cancelina"
     content : "Role: Meg"
     style : "style2 major fa-gem"
-    icon: "images/popups/fulls/Cancelina/poster.jpg"
+    icon: "images/icons/poster.jpg"
     button: 
       label: "Learn More"
       link: "#"
@@ -63,7 +63,7 @@ items:
   - name : "Peerless"
     content : "Role: M"
     style : "solid style2 major fa-cog"
-    icon: "images/popups/fulls/peerless/vertical/peerless-2.jpg"
+    icon: "images/icons/peerless-2.jpg"
     button: 
       label: "Learn More"
       link: "#"
