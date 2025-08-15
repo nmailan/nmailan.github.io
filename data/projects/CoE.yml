@@ -12,63 +12,63 @@ pictures:
   #   content: 
   #   orientation: "horizontal"
   #   image: 
-  #   thumb: "images/popups/fulls/coe/horizontal/coe-1.jpg"
+  #   thumb: "images/my_gallery/horizontal/coe-1.jpg"
   #   button: 
   
   # - title: "coe"
   #   content: 
   #   orientation: "horizontal"
   #   image: 
-  #   thumb: "images/popups/fulls/coe/horizontal/coe-2.jpg"
+  #   thumb: "images/my_gallery/horizontal/coe-2.jpg"
   #   button: 
 
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-3.jpg"
+    thumb: "images/my_gallery/horizontal/coe-3.jpg"
     button: 
   
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-4.jpg"
+    thumb: "images/my_gallery/horizontal/coe-4.jpg"
     button: 
   
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-5.jpg"
+    thumb: "images/my_gallery/horizontal/coe-5.jpg"
     button: 
   
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-6.jpg"
+    thumb: "images/my_gallery/horizontal/coe-6.jpg"
     button: 
     
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-7.jpg"
+    thumb: "images/my_gallery/horizontal/coe-7.jpg"
     button: 
   
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-8.jpg"
+    thumb: "images/my_gallery/horizontal/coe-8.jpg"
     button: 
   
   - title: "coe"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/coe/horizontal/coe-9.jpg"
+    thumb: "images/my_gallery/horizontal/coe-9.jpg"
     button: 
 
   
@@ -76,14 +76,14 @@ pictures:
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/coe/vertical/coe-11.jpg"
+    thumb: "images/my_gallery/vertical/coe-11.jpg"
     button: 
   
   - title: "coe"
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/coe/vertical/coe-12.jpg"
+    thumb: "images/my_gallery/vertical/coe-12.jpg"
     button: 
 
   

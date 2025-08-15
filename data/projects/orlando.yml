@@ -14,7 +14,7 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/orlando/orlando-1.jpg"
+    thumb: "images/my_gallery/horizontal/orlando-1.jpg"
     button: 
 
   # Horizontal
@@ -22,28 +22,28 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/orlando/orlando-2.jpg"
+    thumb: "images/my_gallery/horizontal/orlando-2.jpg"
     button: "Details"
   
   - title: "orlando"
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/orlando/orlando-3.jpg"
+    thumb: "images/my_gallery/vertical/orlando-3.jpg"
     button: 
 
   - title:  "orlando"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/orlando/orlando-4.jpg"
+    thumb: "images/my_gallery/horizontal/orlando-4.jpg"
     button: 
   
   - title:  "orlando"
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/orlando/orlando-6.jpg"
+    thumb: "images/my_gallery/vertical/orlando-6.jpg"
     button: 
 
   
