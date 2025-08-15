@@ -15,7 +15,7 @@ pictures:
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/SIM-fullsize_withoutborder.jpg"
+    thumb: "images/my_gallery/vertical/SIM-fullsize_withoutborder.jpg"
     button: 
 
   # Horizontal
@@ -23,105 +23,105 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-1.jpg"
+    thumb: "images/my_gallery/horizontal/sim-1.jpg"
     button: "Details"
   
   - title:
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/sim-22.jpg"
+    thumb: "images/my_gallery/vertical/sim-22.jpg"
     button: 
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-13.jpg"
+    thumb: "images/my_gallery/horizontal/sim-13.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-19.jpg"
+    thumb: "images/my_gallery/horizontal/sim-19.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-18.jpg"
+    thumb: "images/my_gallery/horizontal/sim-18.jpg"
     button: "Details"
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-17.jpg"
+    thumb: "images/my_gallery/horizontal/sim-17.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-9.jpg"
+    thumb: "images/my_gallery/horizontal/sim-9.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-2.jpg"
+    thumb: "images/my_gallery/horizontal/sim-2.jpg"
     button: 
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-14.jpg"
+    thumb: "images/my_gallery/horizontal/sim-14.jpg"
     button: "Details"
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-20.jpg"
+    thumb: "images/my_gallery/horizontal/sim-20.jpg"
     button: 
 
   - title:
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/sim-15.jpg"
+    thumb: "images/my_gallery/vertical/sim-15.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-16.jpg"
+    thumb: "images/my_gallery/horizontal/sim-16.jpg"
     button: 
 
   - title: "snow"
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/sim-23.jpg"
+    thumb: "images/my_gallery/vertical/sim-23.jpg"
     button:
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-21.jpg"
+    thumb: "images/my_gallery/horizontal/sim-21.jpg"
     button: "Details"
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-6.jpg"
+    thumb: "images/my_gallery/horizontal/sim-6.jpg"
     button: 
 
     
@@ -129,62 +129,62 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-4.jpg"
+    thumb: "images/my_gallery/horizontal/sim-4.jpg"
     button: "Details"
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-5.jpg"
+    thumb: "images/my_gallery/horizontal/sim-5.jpg"
     button: 
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-3.jpg"
+    thumb: "images/my_gallery/horizontal/sim-3.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-8.jpg"
+    thumb: "images/my_gallery/horizontal/sim-8.jpg"
     button: "Details"
 
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-12.jpg"
+    thumb: "images/my_gallery/horizontal/sim-12.jpg"
     button: 
 
   - title: "snow"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/sim-7.jpg"
+    thumb: "images/my_gallery/vertical/sim-7.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/snow/vertical/sim-24.jpg"
+    thumb: "images/my_gallery/vertical/sim-24.jpg"
     button: 
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-11.jpg"
+    thumb: "images/my_gallery/horizontal/sim-11.jpg"
     button: "Details"
   
   - title: "snow"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/snow/horizontal/sim-10.jpg"
+    thumb: "images/my_gallery/horizontal/sim-10.jpg"
     button: 
  
