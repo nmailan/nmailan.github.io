@@ -64,8 +64,8 @@ pictures:
   - title: "ZAR Intense '24"
     content: "Actor's Intensive at the Grotowski Institute in Wrocław and Brzezinka (Grotowski's Laboratory Theatre Base).<br/> (phot. Tobiasz Papuczys)"
     orientation: "horizontal"
-    image: "images/my_gallery/zar-1.jpg"
-    thumb: "images/my_gallery/thumbs/zar-1.jpg"
+    image: "images/my_gallery/horizontal/zar-1.jpg"
+    thumb: "images/my_gallery/horizontal/zar-1.jpg"
     button: "Details"
 
   - title: "Rogues' Trial"
@@ -78,8 +78,8 @@ pictures:
   - title: "ZAR Intense '24"
     content: "Actor's Intensive at the Grotowski Institute in Wrocław and Brzezinka (Grotowski's Laboratory Theatre Base).<br/> (phot. Tobiasz Papuczys)"
     orientation: "horizontal"
-    image: "images/my_gallery/zar-4.jpg"
-    thumb: "images/my_gallery/thumbs/zar-4.jpg"
+    image: "images/my_gallery/horizontal/zar-4.jpg"
+    thumb: "images/my_gallery/horizontal/zar-4.jpg"
     button: "Details"
 
   - title: "The Comedy of Errors"
@@ -150,8 +150,8 @@ pictures:
   - title: "ZAR Intense '24"
     content: "Actor's Intensive at the Grotowski Institute in Wrocław and Brzezinka (Grotowski's Laboratory Theatre Base).<br/> (phot. Tobiasz Papuczys)"
     orientation: "horizontal"
-    image: "images/my_gallery/zar-2.jpg"
-    thumb: "images/my_gallery/thumbs/zar-2.jpg"
+    image: "images/my_gallery/horizontal/zar-2.jpg"
+    thumb: "images/my_gallery/horizontal/zar-2.jpg"
     button: "Details"
 
   - title: "peerless"
@@ -208,8 +208,8 @@ pictures:
   - title: "ZAR Intense '24"
     content: "Actor's Intensive at the Grotowski Institute in Wrocław and Brzezinka (Grotowski's Laboratory Theatre Base).<br/> (phot. Tobiasz Papuczys)"
     orientation: "horizontal"
-    image: "images/my_gallery/zar-3.jpg"
-    thumb: "images/my_gallery/thumbs/zar-3.jpg"
+    image: "images/my_gallery/horizontal/zar-3.jpg"
+    thumb: "images/my_gallery/horizontal/zar-3.jpg"
     button: "Details"
 
 
