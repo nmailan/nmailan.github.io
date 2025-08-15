@@ -8,8 +8,8 @@ pictures:
   - title: "Everybody"
     content: "play by Branden Jacobs-Jenkins <br/> (phot. Stephen Hitchcock)"
     orientation: "horizontal"
-    image: "images/my_gallery/everybody-2.jpg"
-    thumb: "images/my_gallery/everybody-2.jpg"
+    image: "images/my_gallery/horizontal/everybody-13.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-13.jpg"
     button: "Details"
   
   - title: "Headshots"
@@ -50,8 +50,8 @@ pictures:
   - title: "Everybody"
     content: "play by Branden Jacobs-Jenkins / dir. Michael Rau <br/> (phot. Frank Chen)"
     orientation: "horizontal"
-    image: "images/my_gallery/everybody-1.jpg"
-    thumb: "images/my_gallery/everybody-1.jpg"
+    image: "images/my_gallery/horizontal/everybody-1.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-1.jpg"
     button: "Details"
 
   - title: "Vinegar Tom"

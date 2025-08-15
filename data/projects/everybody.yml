@@ -17,84 +17,84 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-2.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-2.jpg"
     button: 
 
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-1.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-1.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-10.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-10.jpg"
     button: 
 
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-5.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-5.jpg"
     button: 
 
   - title: "everybody"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/everybody/vertical/everybody-4.jpg"
+    thumb: "images/my_gallery/vertical/everybody-4.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-12.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-12.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/everybody/vertical/everybody-6.jpg"
+    thumb: "images/my_gallery/vertical/everybody-6.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-13.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-13.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-11.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-11.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/everybody/vertical/everybody-7.jpg"
+    thumb: "images/my_gallery/vertical/everybody-7.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/popups/fulls/everybody/vertical/everybody-8.jpg"
+    thumb: "images/my_gallery/vertical/everybody-8.jpg"
     button: 
   
   - title: "everybody"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/popups/fulls/everybody/horizontal/everybody-9.jpg"
+    thumb: "images/my_gallery/horizontal/everybody-9.jpg"
     button: 
 
  
