@@ -12,6 +12,7 @@ content : |
 button:
   label : "About Me"
   link : "#about"
-image :  "images/my_gallery/vertical/headshot-2.jpg"
+image :  "images/my_gallery/vertical/banner/headshot-2.jpg"
 
+# "images/my_gallery/vertical/portrait.jpg"
 

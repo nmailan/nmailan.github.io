@@ -36,8 +36,8 @@ pictures:
   - title: "Headshots"
     content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/headshot_bnw-2.jpg"
-    thumb: "images/my_gallery/vertical/headshot_bnw-2.jpg"
+    image: "images/my_gallery/vertical/banner/headshot_bnw-2.jpg"
+    thumb: "images/my_gallery/vertical/banner/headshot_bnw-2.jpg"
     button: "Details"
   
   - title: "Vinegar Tom"
@@ -114,8 +114,8 @@ pictures:
   - title: "Headshots"
     content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/headshot_bnw-3.jpg"
-    thumb: "images/my_gallery/vertical/headshot_bnw-3.jpg"
+    image: "images/my_gallery/vertical/banner/headshot_bnw-3.jpg"
+    thumb: "images/my_gallery/vertical/banner/headshot_bnw-3.jpg"
     button: "Details"
   
   - title: "Cancelina"
