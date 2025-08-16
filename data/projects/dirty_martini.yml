@@ -1,0 +1,236 @@
+title: "One Act: Dirty Martini"
+id: dirty_martini
+author:  by Katie Đỗ / <i>dir. Shyama Nithiananda</i>
+director: Shyama Nithiananda
+detail:
+role: <b>Role:</b> Poppy
+style: "style2 medium lightbox onscroll-fade-in"
+content: "Kara and Poppy were best friends - until they weren’t. <br/> After a mysterious falling out, 
+  they reunite and try to rebuild their friendship, but unfinished business keeps getting in the way.<br/><br/> 
+  What really happened with She-Who-Shall-Not-Be-Named? And what other secrets are they keeping from one another? <br/>
+  <i>DIRTY MARTINI</i> looks at what happens when the people closest to you are not who you think they are and what it really means to be a good friend."
+
+pictures:
+  - title: "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-1.jpg"
+    button: 
+
+  # Horizontal
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-2.jpg"
+    button: "Details"
+
+  - title: "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-7.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-4.jpg"
+    button: 
+
+  - title: "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-3.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-5.jpg"
+    button: 
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-6.jpg"
+    button: 
+
+  # Horizontal
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-8.jpg"
+    button: "Details"
+  
+  - title: "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-9.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-10.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-13.jpg"
+    button: "Details"
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-11.jpg"
+    button: 
+
+  - title: "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-12.jpg"
+    button: 
+
+  
+  - title: "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-14.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-15.jpg"
+    button: 
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-16.jpg"
+    button: 
+
+  - title: "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-17.jpg"
+    button: 
+
+  # Horizontal
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-18.jpg"
+    button: "Details"
+  
+  - title: "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-19.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-20.jpg"
+    button: 
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-21.jpg"
+    button: 
+
+  - title: "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-22.jpg"
+    button: 
+
+  # Horizontal
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-23.jpg"
+    button: "Details"
+
+  - title: "dirty_martini"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-29.jpg"
+    button:  
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/dm-25.jpg"
+    button: 
+  
+  - title: "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-24.jpg"
+    button:
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-26.jpg"
+    button: 
+
+  - title: "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-27.jpg"
+    button: 
+
+  # Horizontal
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-28.jpg"
+    button: "Details"
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-30.jpg"
+    button: 
+  
+  - title:  "dirty_martini"
+    content:
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-31.jpg"
+    button: 
+

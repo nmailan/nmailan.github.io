@@ -4,9 +4,7 @@ content:
 # This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
 style: "style1 medium onscroll-fade-in"
 items:
-
-
-  - name : "Rogues' Trial"
+  - name : "The Rogues' Trial"
     content : "Role: John Cricket"
     style : "solid style2 major fa-hashtag"
     icon: "images/icons/RT-poster-0115.jpeg"
@@ -14,6 +12,24 @@ items:
       label: "Learn More"
       link: "#"
       id: "rogues_trial"
+  
+  - name : "One Act: Nerve Endings"
+    content : "Role: Izzy"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/icons/one_acts-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "nerve_endings"
+
+  - name : "One Act: Dirty Martini"
+    content : "Role: Poppy"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/icons/one_acts-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "dirty_martini"
 
   - name : "Vinegar Tom"
     content : "Role: Margery"
