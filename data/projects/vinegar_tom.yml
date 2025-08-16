@@ -40,13 +40,6 @@ pictures:
     image: "images/my_gallery/horizontal/vt3.jpg"
     thumb: "images/my_gallery/horizontal/vt3.jpg"
     button: "Details"
-
-  - title: "vinegar_tom"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    orientation: "horizontal"
-    image: "images/my_gallery/horizontal/vt4.jpg"
-    thumb: "images/my_gallery/horizontal/vt4.jpg"
-    button: "Details"
   
   - title: "vinegar_tom"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
@@ -54,34 +47,6 @@ pictures:
     image: "images/my_gallery/horizontal/vt5.jpg"
     thumb: "images/my_gallery/horizontal/vt5.jpg"
     button: "Details"
-
-  # - title: "vinegar_tom"
-  #   content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-  #   orientation: "horizontal"
-  #   image: "images/my_gallery/horizontal/vt6.jpg"
-  #   thumb: "images/my_gallery/horizontal/vt6.jpg"
-  #   button: "Details"
-
-  # - title: "vinegar_tom"
-  #   content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-  #   orientation: "horizontal"
-  #   image: "images/my_gallery/horizontal/vt7.jpg"
-  #   thumb: "images/my_gallery/horizontal/vt7.jpg"
-  #   button: "Details"
-
-  - title: "vinegar_tom"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    orientation: "horizontal"
-    image: "images/my_gallery/horizontal/vt8.jpg"
-    thumb: "images/my_gallery/horizontal/vt8.jpg"
-    button: "Details"
-
-  # - title: "vinegar_tom"
-  #   content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-  #   orientation: "horizontal"
-  #   image: "images/my_gallery/horizontal/vt9.jpg"
-  #   thumb: "images/my_gallery/horizontal/vt9.jpg"
-  #   button: "Details"
 
   - title: "vinegar_tom"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
@@ -201,13 +166,6 @@ pictures:
     image: "images/my_gallery/horizontal/vt27.jpg"
     thumb: "images/my_gallery/horizontal/vt27.jpg"
     button: "Details"
-
-  # - title: "vinegar_tom"
-  #   content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-  #   orientation: "vertical"
-  #   image: "images/my_gallery/vertical/vt28.jpg"
-  #   thumb: "images/my_gallery/vertical/vt28.jpg"
-  #   button: "Details"
   
   - title: "vinegar_tom"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
@@ -286,13 +244,6 @@ pictures:
     orientation: "horizontal"
     image: "images/my_gallery/horizontal/vt39.jpg"
     thumb: "images/my_gallery/horizontal/vt39.jpg"
-    button: "Details"
-
-  - title: "vinegar_tom"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    orientation: "horizontal"
-    image: "images/my_gallery/horizontal/vt40.jpg"
-    thumb: "images/my_gallery/horizontal/vt40.jpg"
     button: "Details"
 
   - title: "vinegar_tom"
