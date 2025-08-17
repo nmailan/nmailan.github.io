@@ -81,15 +81,15 @@ items:
       id: "peerless"
 
 
-  # feature item loop
-  - name : "The Comedy of Errors"
-    content : "Role: Luciana"
-    style : "solid style2 major fa-save"
-    icon: "images/icons/coe-icon.jpg"
-    button: 
-      label: "Learn More"
-      link: "#"
-      id: "coe"
+  # # feature item loop
+  # - name : "The Comedy of Errors"
+  #   content : "Role: Luciana"
+  #   style : "solid style2 major fa-save"
+  #   icon: "images/icons/coe-icon.jpg"
+  #   button: 
+  #     label: "Learn More"
+  #     link: "#"
+  #     id: "coe"
     
   # feature item loop
   - name : "A Midsummer Night's Dream"

@@ -11,11 +11,11 @@ content: "Ansel and Izzy are at a wedding neither of them wants to be at. Theyâ€
   NERVE ENDINGS looks at the cyclical nature of elationships and what it takes to mend a severed connection."
 
 pictures:
-  - title: "nerve_endings"
+  - title:  "nerve_endings"
     content:
     orientation: "vertical"
     image: 
-    thumb: "images/my_gallery/vertical/mne-3.jpg"
+    thumb: "images/my_gallery/vertical/ne-21.jpg"
     button: 
 
   - title: "nerve_endings"
@@ -25,20 +25,12 @@ pictures:
     thumb: "images/my_gallery/horizontal/mne-1.jpg"
     button: 
 
-  # Horizontal
-  - title:  "nerve_endings"
+  - title: "nerve_endings"
     content: 
     orientation: "vertical"
     image: 
-    thumb: "images/my_gallery/vertical/mne-2.jpg"
-    button: "Details"
-
-  # - title:  "nerve_endings"
-  #   content: 
-  #   orientation: "horizontal"
-  #   image: 
-  #   thumb: "images/my_gallery/horizontal/mne-4.jpg"
-  #   button: 
+    thumb: "images/my_gallery/vertical/ne-7.jpg"
+    button:
 
   - title:  "nerve_endings"
     content:
@@ -46,93 +38,14 @@ pictures:
     image: 
     thumb: "images/my_gallery/horizontal/mne-5.jpg"
     button: 
-  
+      
   - title:  "nerve_endings"
     content:
     orientation: "horizontal"
     image: 
     thumb: "images/my_gallery/horizontal/mne-6.jpg"
     button: 
-  
-  - title: "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/mne-7.jpg"
-    button: 
 
-  # Horizontal
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/mne-8.jpg"
-    button: "Details"
-  
-  - title: "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/mne-9.jpg"
-    button: 
-
-  - title: "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-1.jpg"
-    button: 
-
-  - title: "nerve_endings"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/ne-7.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-2.jpg"
-    button: "Details"
-
-  - title: "nerve_endings"
-    content:
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/ne-3.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-4.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-5.jpg"
-    button: 
-  
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-6.jpg"
-    button: 
-
-  # Horizontal
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-8.jpg"
-    button: "Details"
-  
   - title: "nerve_endings"
     content:
     orientation: "horizontal"
@@ -144,21 +57,28 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/my_gallery/horizontal/ne-10.jpg"
+    thumb: "images/my_gallery/horizontal/ne-2.jpg"
+    button: "Details"
+
+  - title:  "nerve_endings"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/ne-4.jpg"
     button: 
   
   - title:  "nerve_endings"
     content:
     orientation: "horizontal"
     image: 
-    thumb: "images/my_gallery/horizontal/ne-11.jpg"
+    thumb: "images/my_gallery/horizontal/ne-6.jpg"
     button: 
 
-  - title: "nerve_endings"
+  - title:  "nerve_endings"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/my_gallery/horizontal/ne-12.jpg"
+    thumb: "images/my_gallery/horizontal/ne-10.jpg"
     button: 
 
   - title:  "nerve_endings"
@@ -173,63 +93,20 @@ pictures:
     orientation: "vertical"
     image: 
     thumb: "images/my_gallery/vertical/ne-14.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-15.jpg"
-    button: 
+    button:  
   
   - title:  "nerve_endings"
     content:
     orientation: "horizontal"
     image: 
     thumb: "images/my_gallery/horizontal/ne-16.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content:
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/ne-21.jpg"
-    button: 
-
-  - title: "nerve_endings"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/ne-17.jpg"
-    button: 
-
-  # Horizontal
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-18.jpg"
-    button: "Details"
+    button:
   
   - title: "nerve_endings"
     content:
     orientation: "horizontal"
     image: 
     thumb: "images/my_gallery/horizontal/ne-19.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-20.jpg"
-    button: 
-
-  - title: "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-22.jpg"
     button: 
 
   # Horizontal
@@ -239,13 +116,6 @@ pictures:
     image: 
     thumb: "images/my_gallery/horizontal/ne-23.jpg"
     button: "Details" 
-  
-  - title: "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-24.jpg"
-    button:
 
   - title:  "nerve_endings"
     content: 
@@ -261,14 +131,6 @@ pictures:
     thumb: "images/my_gallery/horizontal/ne-26.jpg"
     button: 
 
-  - title: "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-27.jpg"
-    button: 
-
-  # Horizontal
   - title:  "nerve_endings"
     content: 
     orientation: "horizontal"
@@ -284,38 +146,10 @@ pictures:
     button: 
 
   - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-30.jpg"
-    button: 
-  
-  - title:  "nerve_endings"
     content:
     orientation: "horizontal"
     image: 
     thumb: "images/my_gallery/horizontal/ne-31.jpg"
-    button: 
-  
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-32.jpg"
-    button: 
-  
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-33.jpg"
-    button: 
-
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-34.jpg"
     button: 
 
 
