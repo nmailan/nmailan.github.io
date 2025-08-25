@@ -70,7 +70,7 @@ nav ul li {
 }
 
 nav ul li a {
-    display: block;
+    /* display: block; */
     padding: 15px 20px; /* Padding for clickable area */
     text-decoration: none;
     color: #333; /* Text color that matches the theme */
@@ -150,7 +150,7 @@ nav ul li a:hover {
     width: 100%;
     justify-content: center;
     height: auto;
-    display: block;
+    /* display: block; */
     transition: transform 0.3s ease;
     cursor: pointer;
     /* height: 100%; */
