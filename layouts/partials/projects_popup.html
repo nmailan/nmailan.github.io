@@ -13,7 +13,7 @@
         <div class="photo-grid">
             {{ range .pictures }}
                 <div class="photo-item {{ .orientation }} align-center">
-                    <img src="{{ .thumb | relURL }}" alt="{{ .alt }}"  onclick="openFullscreen(this, '{{ .title}}')">
+                    <img src="{{ .thumb | relURL }}" alt="{{ .alt }}"  loading="lazy" onclick="openFullscreen(this, '{{ .title}}')">
                 </div>
             {{ end }}
         </div>
@@ -22,7 +22,7 @@
  <!-- Full-Screen Viewer (shared across pop-ups) -->
  <div id="fullscreenViewer" class="fullscreen-viewer">
     <span class="close-fullscreen" onclick="closeFullscreen()">&times;</span>
-    <img id="fullscreenImg" class="fullscreen-img" src="" alt="">
+    <img id="fullscreenImg" class="fullscreen-img" loading="lazy" src="" alt="">
     <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
     <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>

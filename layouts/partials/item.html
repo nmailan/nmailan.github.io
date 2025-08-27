@@ -1,6 +1,6 @@
 <section>
     <!-- <span class="icon {{ .style }} caption"></span> -->
-    <img src="{{.icon}}" alt="Photo Icon" class="mini-photo-icon open-popup" data-popup-id="{{ .id}}">
+    <img src="{{.icon}}" alt="Photo Icon" loading="lazy" class="mini-photo-icon open-popup" data-popup-id="{{ .id}}">
     <h3>{{ .name }}</h3>
     <p>{{ .content }}</p>
     {{ with .button }}<ul class="actions stacked">
