@@ -31,13 +31,6 @@ pictures:
     image: 
     thumb: "images/my_gallery/vertical/ne-7.jpg"
     button:
-
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/mne-5.jpg"
-    button: 
       
   - title:  "nerve_endings"
     content:
@@ -95,13 +88,6 @@ pictures:
     thumb: "images/my_gallery/vertical/ne-14.jpg"
     button:  
   
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-16.jpg"
-    button:
-  
   - title: "nerve_endings"
     content:
     orientation: "horizontal"
@@ -109,26 +95,11 @@ pictures:
     thumb: "images/my_gallery/horizontal/ne-19.jpg"
     button: 
 
-  # Horizontal
-  - title:  "nerve_endings"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-23.jpg"
-    button: "Details" 
-
   - title:  "nerve_endings"
     content: 
     orientation: "horizontal"
     image: 
     thumb: "images/my_gallery/horizontal/ne-25.jpg"
-    button: 
-  
-  - title:  "nerve_endings"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/ne-26.jpg"
     button: 
 
   - title:  "nerve_endings"

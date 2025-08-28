@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.addEventListener("DOMContentLoaded", function() {
     var openPopupBtns = document.querySelectorAll('.open-popup');
     var closeBtns = document.querySelectorAll('.close-popup');
-    // console.log("Open Popup Buttons:", openPopupBtns);
+
 
     openPopupBtns.forEach(function(btn) {
         btn.addEventListener('click', function() {
@@ -69,20 +69,15 @@ let currentSlideIndex;
 let currentPhotos;
 
 function openFullscreen(image, popupId) {
-    // console.log("popup id:", popupId)
-    // console.log("open index: ", currentSlideIndex)
     const fullscreenViewer = document.getElementById('fullscreenViewer');
     const fullscreenImg = document.getElementById('fullscreenImg');
 
     // Correctly select photos from the current pop-up using a valid selector
     currentPhotos = document.querySelectorAll(`#${popupId} .photo-item img`);
-    // console.log(currentPhotos)
     
-    // console.log("src; ", image.src)
     fullscreenImg.src = image.src;
     fullscreenViewer.style.display = 'flex';
     currentSlideIndex = Array.from(currentPhotos).indexOf(image);
-    // console.log(currentSlideIndex)
 }
 
 function closeFullscreen() {
@@ -90,15 +85,11 @@ function closeFullscreen() {
 }
 
 function changeSlide(direction) {
-    // console.log(currentPhotos.length)
-    // console.log("sliding:", currentSlideIndex)
     currentSlideIndex += direction;
 
     if (currentSlideIndex < 0) {
-        // console.log("here in this case")
         currentSlideIndex = currentPhotos.length - 1;
     } else if (currentSlideIndex >= currentPhotos.length) {
-        // console.log("reset", currentSlideIndex)
         currentSlideIndex = 0;
     }
 

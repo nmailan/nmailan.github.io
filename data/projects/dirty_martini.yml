@@ -18,13 +18,12 @@ pictures:
     thumb: "images/my_gallery/vertical/dm-1.jpg"
     button: 
 
-  # Horizontal
-  - title:  "dirty_martini"
+  - title: "dirty_martini"
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/my_gallery/horizontal/dm-2.jpg"
-    button: "Details"
+    thumb: "images/my_gallery/horizontal/dm-22.jpg"
+    button: 
 
   - title: "dirty_martini"
     content: 
@@ -34,48 +33,12 @@ pictures:
     button: 
 
   - title:  "dirty_martini"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/dm-4.jpg"
-    button: 
-
-  - title: "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-3.jpg"
-    button: 
-
-  - title:  "dirty_martini"
     content:
     orientation: "vertical"
     image: 
     thumb: "images/my_gallery/vertical/dm-5.jpg"
     button: 
   
-  - title:  "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-6.jpg"
-    button: 
-
-  # Horizontal
-  - title:  "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-8.jpg"
-    button: "Details"
-  
-  - title: "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-9.jpg"
-    button: 
-
   - title:  "dirty_martini"
     content: 
     orientation: "vertical"
@@ -87,9 +50,22 @@ pictures:
     content: 
     orientation: "vertical"
     image: 
+    thumb: "images/my_gallery/vertical/dm-25.jpg"
+    button: 
+
+  - title:  "dirty_martini"
+    content: 
+    orientation: "vertical"
+    image: 
     thumb: "images/my_gallery/vertical/dm-13.jpg"
     button: "Details"
-  
+  - title:  "dirty_martini"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/dm-30.jpg"
+    button: 
+
   - title:  "dirty_martini"
     content:
     orientation: "horizontal"
@@ -97,56 +73,12 @@ pictures:
     thumb: "images/my_gallery/horizontal/dm-11.jpg"
     button: 
 
-  - title: "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-12.jpg"
-    button: 
-
-  
-  - title: "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-14.jpg"
-    button: 
-
-  - title:  "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-15.jpg"
-    button: 
-  
-  - title:  "dirty_martini"
-    content:
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/dm-16.jpg"
-    button: 
-
-  - title: "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-17.jpg"
-    button: 
-
-  # Horizontal
   - title:  "dirty_martini"
     content: 
     orientation: "vertical"
     image: 
     thumb: "images/my_gallery/vertical/dm-18.jpg"
     button: "Details"
-  
-  - title: "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-19.jpg"
-    button: 
 
   - title:  "dirty_martini"
     content: 
@@ -162,57 +94,6 @@ pictures:
     thumb: "images/my_gallery/vertical/dm-21.jpg"
     button: 
 
-  - title: "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-22.jpg"
-    button: 
-
-  # Horizontal
-  - title:  "dirty_martini"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/dm-23.jpg"
-    button: "Details"
-
-  - title: "dirty_martini"
-    content:
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/dm-29.jpg"
-    button:  
-
-  - title:  "dirty_martini"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/dm-25.jpg"
-    button: 
-  
-  - title: "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-24.jpg"
-    button:
-  
-  - title:  "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-26.jpg"
-    button: 
-
-  - title: "dirty_martini"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-27.jpg"
-    button: 
-
-  # Horizontal
   - title:  "dirty_martini"
     content: 
     orientation: "horizontal"
@@ -224,13 +105,5 @@ pictures:
     content: 
     orientation: "horizontal"
     image: 
-    thumb: "images/my_gallery/horizontal/dm-30.jpg"
-    button: 
-  
-  - title:  "dirty_martini"
-    content:
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/dm-31.jpg"
-    button: 
-
+    thumb: "images/my_gallery/horizontal/dm-2.jpg"
+    button: "Details"
