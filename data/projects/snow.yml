@@ -173,11 +173,3 @@ pictures:
     image: 
     thumb: "images/my_gallery/horizontal/sim-11.jpg"
     button: "Details"
-  
-  - title: "snow"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/sim-10.jpg"
-    button: 
- 
