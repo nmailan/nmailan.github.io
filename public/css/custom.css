@@ -84,6 +84,30 @@ nav ul li a:hover {
     /* color: #007acc; */
 }
 
+ /* color palette background-color: #FAF0E6; color:#704214 */
+    /* color: #837164; */
+/* .banner {
+    background-color: #FAF0E6;
+   
+} */
+
+/* Banner Image */
+#banner_img {
+    object-fit: cover;
+    /* object-position: 55% 0%; */
+    object-position: 50% 6%;
+}
+#contact_img {
+    object-fit: cover;
+    object-position: 50% 10%;
+}
+#contact_img_wrapper {
+    height: 480px; 
+    width: 200px;
+}
+
+
+
 /* Add some padding to the top of the main content to avoid it being hidden behind the fixed navbar */
 /* main {
     padding-top: 60px;

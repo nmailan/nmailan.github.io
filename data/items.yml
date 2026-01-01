@@ -4,6 +4,15 @@ content:
 # This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
 style: "style1 medium onscroll-fade-in"
 items:
+  - name : "One Flea Spare"
+    content : "Role: Morse"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/icons/ofs_poster.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "ofs"
+
   - name : "The Rogues' Trial"
     content : "Role: John Cricket"
     style : "solid style2 major fa-hashtag"
@@ -12,6 +21,17 @@ items:
       label: "Learn More"
       link: "#"
       id: "rogues_trial"
+
+  # feature item loop
+  - name : "Peerless"
+    content : "Role: M"
+    style : "solid style2 major fa-cog"
+    icon: "images/icons/peerless-2.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "peerless"
+  
   
   - name : "One Act: Nerve Endings"
     content : "Role: Izzy"
@@ -22,15 +42,6 @@ items:
       link: "#"
       id: "nerve_endings"
 
-  - name : "One Act: Dirty Martini"
-    content : "Role: Poppy"
-    style : "solid style2 major fa-hashtag"
-    icon: "images/icons/one_acts-icon.jpg"
-    button: 
-      label: "Learn More"
-      link: "#"
-      id: "dirty_martini"
-
   - name : "Vinegar Tom"
     content : "Role: Margery"
     style : "solid style2 major fa-hashtag"
@@ -39,6 +50,15 @@ items:
       label: "Learn More"
       link: "#"
       id: "vinegar_tom"
+
+  - name : "One Act: Dirty Martini"
+    content : "Role: Poppy"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/icons/one_acts-icon.jpg"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "dirty_martini"
 
   # feature item loop
   - name : "Snow in Midsummer"
@@ -69,16 +89,7 @@ items:
       label: "Learn More"
       link: "#"
       id: "everybody"
-    
-  # feature item loop
-  - name : "Peerless"
-    content : "Role: M"
-    style : "solid style2 major fa-cog"
-    icon: "images/icons/peerless-2.jpg"
-    button: 
-      label: "Learn More"
-      link: "#"
-      id: "peerless"
+  
 
 
   # # feature item loop
@@ -90,27 +101,7 @@ items:
   #     label: "Learn More"
   #     link: "#"
   #     id: "coe"
-    
-  # feature item loop
-  - name : "A Midsummer Night's Dream"
-    content : "Moth/Snug"
-    style : "solid style2 major fa-desktop"
-    icon: "images/icons/midsummer-night-icon.jpg"
-    button: 
-      label: "Learn More"
-      link: "#"
-      id: "midsummer"
 
-
-  # feature item loop
-  - name : "Orlando"
-    content : "Role: Euphrosyne/Chorus"
-    style : "solid style2 major fa-chart-bar"
-    icon: "images/icons/orlando-icon.jpg"
-    button: 
-      label: "Learn More"
-      link: "#"
-      id: "orlando"
     
     
   # # feature item loop
