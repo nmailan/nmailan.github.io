@@ -102,8 +102,7 @@ nav ul li a:hover {
     object-position: 50% 10%;
 }
 #contact_img_wrapper {
-    height: 480px; 
-    width: 200px;
+    aspect-ratio: 3.7 / 4;
 }
 
 
