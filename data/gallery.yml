@@ -5,19 +5,49 @@ content: |
   Selected and additional photos from workshops and artistic projects. To see and learn more, visit the projects page <a class="smooth-scroll" href="#projects">below.</a>
 # This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
 pictures:
+
+  - title: "One Flea Spare"
+    content: "play by Branden Naomi Wallace <br/> (phot. Rich Soublet)"
+    orientation: "horizontal"
+    image: "images/my_gallery/horizontal/ofs-3.jpg"
+    thumb: "images/my_gallery/horizontal/ofs-3.jpg"
+    button: "Details"
+
+  - title: "Headshots"
+    content: "(phot. Nam Nguyễn)"
+    orientation: "vertical"
+    image: "images/my_gallery/vertical/banner/headshot_bnw-1.jpg"
+    thumb: "images/my_gallery/vertical/banner/headshot_bnw-1.jpg"
+    button: "Details"
+
+  - title: "Nerve Endings"
+    content: "play by Quentin Nguyễn-Duy <br/> (phot. Rich Soublet)"
+    orientation: "horizontal"
+    image: "images/my_gallery/horizontal/mne-1.jpg"
+    thumb: "images/my_gallery/horizontal/mne-1.jpg"
+    button: "Details"
+
+  - title: "dirty_martini"
+    content: "play by Katie Đỗ <br/> (phot. Rich Soublet)"
+    orientation: "vertical"
+    image: "images/my_gallery/vertical/dm-7.jpg"
+    thumb: "images/my_gallery/vertical/dm-7.jpg"
+    button: "Details"
+
   - title: "Everybody"
     content: "play by Branden Jacobs-Jenkins <br/> (phot. Stephen Hitchcock)"
     orientation: "horizontal"
     image: "images/my_gallery/horizontal/everybody-13.jpg"
     thumb: "images/my_gallery/horizontal/everybody-13.jpg"
     button: "Details"
-  
+
   - title: "Headshots"
-    content: "(phot. Nam Nguyễn)"
+    content: "(phot. Jackson Davis)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/headshot-5.jpg"
-    thumb: "images/my_gallery/vertical/headshot-5.jpg"
+    image: "images/my_gallery/headshots/8596.jpg"
+    thumb: "images/my_gallery/headshots/8596.jpg"
     button: "Details"
+
 
   - title: "peerless"
     content: "play by Jiehae Park / dir. Olivia Popp <br/> (phot. Frank Chen)"
@@ -184,10 +214,10 @@ pictures:
     button: "Details"
 
   - title: "Headshots"
-    content: "(phot. Jackson Davis)"
+    content: "(phot. Nam Nguyễn)"
     orientation: "vertical"
-    image: "images/my_gallery/headshots/8596.jpg"
-    thumb: "images/my_gallery/headshots/8596.jpg"
+    image: "images/my_gallery/vertical/headshot-5.jpg"
+    thumb: "images/my_gallery/vertical/headshot-5.jpg"
     button: "Details"
 
   - title: "A Midsummer Night's Dream"
