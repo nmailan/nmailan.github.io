@@ -27,7 +27,9 @@ content: |
 button: 
   label: "Back"
   link: "#landing"
-image: "images/my_gallery/vertical/banner/headshot_bnw-1.jpg"
+image: "images/my_gallery/headshots/8770.jpg"
+
+# "images/my_gallery/vertical/banner/headshot_bnw-1.jpg"
 
 # "images/my_gallery/headshots/8629.jpg"
 

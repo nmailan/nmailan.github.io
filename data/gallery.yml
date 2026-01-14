@@ -184,10 +184,10 @@ pictures:
     button: "Details"
 
   - title: "Headshots"
-    content: "(phot. Nam Nguyễn)"
+    content: "(phot. Jackson Davis)"
     orientation: "vertical"
-    image: "images/my_gallery/vertical/headshot-6.jpg"
-    thumb: "images/my_gallery/vertical/headshot-6.jpg"
+    image: "images/my_gallery/headshots/8596.jpg"
+    thumb: "images/my_gallery/headshots/8596.jpg"
     button: "Details"
 
   - title: "A Midsummer Night's Dream"

@@ -97,6 +97,13 @@ nav ul li a:hover {
     /* object-position: 55% 0%; */
     object-position: 50% 6%;
 }
+
+#about_img {
+    object-fit: cover;
+    /* object-position: 55% 0%; */
+    object-position: 80% 8%;
+}
+
 #contact_img {
     object-fit: cover;
     object-position: 50% 10%;
