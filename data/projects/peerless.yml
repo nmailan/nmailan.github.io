@@ -33,11 +33,11 @@ pictures:
     button: 
 
     - title: "peerless"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/peerless-15.jpg"
-    button: 
+      content: 
+      orientation: "vertical"
+      image: 
+      thumb: "images/my_gallery/vertical/peerless-15.jpg"
+      button: 
     
   - title: "peerless"
     content: 

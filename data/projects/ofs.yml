@@ -168,11 +168,11 @@ pictures:
     button:  
   
     - title:  "ofs"
-    content: 
-    orientation: "vertical"
-    image: 
-    thumb: "images/my_gallery/vertical/ofs-22.jpg"
-    button: "Details"
+      content: 
+      orientation: "vertical"
+      image: 
+      thumb: "images/my_gallery/vertical/ofs-22.jpg"
+      button: "Details"
   
   - title: "ofs"
     content:
