@@ -1,0 +1,12 @@
+<section class="banner {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content" id="#text_bubble">
+        {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .button }}<ul class="actions stacked">
+            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="Hugo Story" />
+    </div>{{end}}
+</section>

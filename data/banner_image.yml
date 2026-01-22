@@ -1,0 +1,9 @@
+style: "style2 orient-right fullscreen"
+id: "banner-image"
+image: "images/my_gallery/headshots/9315_Websize.jpg"
+title : "Upcoming"
+content : |
+  <b>2026 UC San Diego MFA Acting Showcase</b> <br/>
+  <b>New York:</b> May 4th 2026<br/>
+  <b>Los Angeles:</b> May 18th<br/>
+  For more information, please contact Maia via <a href="#contact">email</a>
