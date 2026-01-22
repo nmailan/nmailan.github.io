@@ -122,7 +122,7 @@ nav ul li a:hover {
   padding-top:30px;
 
   transform: none;      
-  max-width: 500px;
+  max-width: 30%;
 }
 
 @media (max-width: 768px) {
