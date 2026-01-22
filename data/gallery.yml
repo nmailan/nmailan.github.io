@@ -5,7 +5,6 @@ content: |
   Selected and additional photos from workshops and artistic projects. To see and learn more, visit the projects page <a class="smooth-scroll" href="#projects">below.</a>
 # This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
 pictures:
-
   - title: "One Flea Spare"
     content: "play by Branden Naomi Wallace <br/> (phot. Rich Soublet)"
     orientation: "horizontal"
