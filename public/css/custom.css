@@ -106,7 +106,7 @@ nav ul li a:hover {
 
 #contact_img {
     object-fit: cover;
-    /* object-position: 50% 10%; */
+    object-position: 60% 10%;
 }
 #contact_img_wrapper {
     aspect-ratio: 3.7 / 4;
