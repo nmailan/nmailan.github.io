@@ -32,12 +32,19 @@ pictures:
     thumb: "images/my_gallery/horizontal/peerless-5.jpg"
     button: 
 
-    - title: "peerless"
-      content: 
-      orientation: "vertical"
-      image: 
-      thumb: "images/my_gallery/vertical/peerless-15.jpg"
-      button: 
+  - title: "peerless"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/peerless-16.jpg"
+    button: 
+
+  - title: "peerless"
+    content: 
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/peerless-15.jpg"
+    button: 
     
   - title: "peerless"
     content: 
@@ -94,13 +101,7 @@ pictures:
     image: 
     thumb: "images/my_gallery/horizontal/peerless-14.jpg"
     button: 
-  
-  - title: "peerless"
-    content: 
-    orientation: "horizontal"
-    image: 
-    thumb: "images/my_gallery/horizontal/peerless-16.jpg"
-    button: 
+
 
   # - title:
   #   content:
