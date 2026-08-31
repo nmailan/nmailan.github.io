@@ -1,0 +1,199 @@
+title: "Fancy Jungle"
+id: fj
+author: by Katie Đỗ / <i>dir. Shyama Nithiananda</i>
+director: Shyama Nithiananda
+detail: Wagner New Play Festival
+role: <b>Role:</b> Lucy
+style: "style2 medium lightbox onscroll-fade-in"
+content: "<i>Fancy Jungle</i> is a contemporary play written by Katie Đỗ that debuted in May 2026 at the Wagner New Play Festival. 
+    It centers on Margo Ho, a Gen Z Vietnamese-American playwright, and Lucy, a Chinese-American showrunner, 
+    as they clash over authenticity and representation in a TV writers' room."
+
+
+pictures:
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-1.jpg"
+    button: 
+    
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-2.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-6.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-16.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-9.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-13.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-2.jpg"
+    button:  
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-6.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-17.jpg"
+    button: 
+
+  # - title: "fj"
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/my_gallery/vertical/fj-5.jpg"
+  #   button: 
+
+  # - title: "fj"
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/my_gallery/vertical/fj-15.jpg"
+  #   button:
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-4.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-5.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-11.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-7.jpg"
+    button: 
+
+  - title: "fj"
+    content:
+    orientation: "vertical"
+    image: 
+    thumb: "images/my_gallery/vertical/fj-12.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-8.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-9.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-10.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-11.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-12.jpg"
+    button: 
+
+  # - title: "fj"
+  #   content: 
+  #   orientation: "horizontal"
+  #   image: 
+  #   thumb: "images/my_gallery/horizontal/fj-13.jpg"
+  #   button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-14.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-15.jpg"
+    button: 
+
+  - title: "fj"
+    content: 
+    orientation: "horizontal"
+    image: 
+    thumb: "images/my_gallery/horizontal/fj-16.jpg"
+    button: 
+
+  
+  # - title: "fj"
+  #   content:
+  #   orientation: "vertical"
+  #   image: 
+  #   thumb: "images/my_gallery/vertical/fj-1.jpg"
+  #   button: 
+
+  
+ 

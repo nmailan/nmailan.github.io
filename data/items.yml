@@ -13,6 +13,15 @@ items:
       link: "#"
       id: "ofs"
 
+  - name : "Fancy Jungle"
+    content : "Role: Lucy"
+    style : "solid style2 major fa-hashtag"
+    icon: "images/icons/fj-icon.png"
+    button: 
+      label: "Learn More"
+      link: "#"
+      id: "fj"
+
   - name : "The Rogues' Trial"
     content : "Role: John Cricket"
     style : "solid style2 major fa-hashtag"
